@@ -31,4 +31,4 @@ TagLog::log('My message', 'mytag3');	# Won't get logged
 Installation
 ------------
 
-Just download the taglog.php script or use composer!
+Just download the taglog.php script or use composer and go!
