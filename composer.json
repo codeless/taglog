@@ -1,0 +1,12 @@
+{
+	"name" : "codeless/taglog",
+	"description" : "Wrapper-class for the error_log function with the possibility to tag your messages so you can keep them in your scripts",
+	"keywords" : ["error_log","log","tag","debug"],
+	"homepage" : "https://www.github.com/codeless/taglog",
+	"autoload": {
+		"psr-0": {
+			"TagLog": ""
+		}
+	}
+}
+
